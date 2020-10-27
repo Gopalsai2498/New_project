@@ -1,3 +1,6 @@
 
 AdaBoost vs Gradient Boost
 https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/?utm_source=browser&utm_medium=rss_notification&utm_id=620249.9855948961
+
+Parameter Tuning in XGBoost in py
+https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/?utm_source=browser&utm_medium=rss_notification&utm_id=620249.9855948961
