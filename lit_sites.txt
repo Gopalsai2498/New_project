@@ -1,3 +1,47 @@
 
+PyTesseract is used to convert image text into text
+
+
 AdaBoost vs Gradient Boost
+--------------------------
 https://www.analyticsvidhya.com/blog/2020/10/adaboost-and-gradient-boost-comparitive-study-between-2-popular-ensemble-model-techniques/?utm_source=browser&utm_medium=rss_notification&utm_id=620249.9855948961
+
+
+
+Parameter Tuning in XGBoost in py
+---------------------------------
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
+
+multiple linear regression
+--------------------------
+https://www.analyticsvidhya.com/blog/2020/10/linear-regression-for-absolute-beginners-with-implementation-in-python/?utm_source=browser&utm_medium=rss_notification&utm_id=173525.13704535388
+
+
+vishnu github
+-------------
+https://github.com/vishnu772
+
+
+time series
+-----------
+https://towardsdatascience.com/moving-averages-in-python-16170e20f6c
+https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
+
+converting into original scale ARIMA
+------------------------------------
+https://stackoverflow.com/questions/60247685/converting-back-prediction-values-to-original-scaleforecasting-with-python-arim
+
+
+The Roadmap of Mathematics for Deep Learning
+--------------------------------------------
+https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b
+
+R-shiny
+-------
+https://www.youtube.com/watch?v=SY7x2Ayj_b0
+https://www.youtube.com/watch?v=Gyrfsrd4zK0
+https://shiny.rstudio.com/gallery/
+https://shiny.rstudio.com/tutorial/
+https://www.youtube.com/watch?v=wkXxeqVdrCY
+
